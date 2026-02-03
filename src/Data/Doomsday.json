@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Victor von Doom",
+    "alias": "Doctor Doom",
+    "role": "Villain",
+    "actor": "Robert Downey Jr.",
+    "img": "/Image/Doom.jpg",
+    "description": "Doctor Doom was positioned as the main villain of the MCU's massive storyline, known as the Multiverse Saga. He replaced Kang the Conqueror after Kang was removed from the MCU film plans."
+  },
+  {
+    "id": 2,
+    "name": "Loki",
+    "role": "Antihero",
+    "actor": "Tom Hiddleston",
+    "img": "/Image/Loki.avif",
+    "description": "Is an Asgardian god of mischief, but now he is the god of multiverse, protecting all timelines with his hands."
+  },
+  {
+    "id": 3,
+    "name": "Thor",
+    "alias": "God of Thunder",
+    "role": "Hero",
+    "actor": "Chris Hemsworth",
+    "img": "/Image/Thor.webp",
+    "description": "God of thunder from Asgard, he is the most powerful Avengers member, the rumor said he will become Rune king Thor in the movie."
+  },
+  {
+    "id": 4,
+    "name": "Sam Wilson",
+    "alias": "Captain America",
+    "role": "Hero",
+    "actor": "Anthony Mackie",
+    "img": "/Image/Sam.jpg",
+    "description": "The new Captain America, succesor of Steve Rogers, he is the founder of reformed Avengers that will appear in the movie."
+  },
+  {
+    "id": 5,
+    "name": "Scott Lang",
+    "alias": "Ant‑Man",
+    "role": "Hero",
+    "actor": "Paul Rudd",
+    "img": "/Image/Ant-man.webp",
+    "description": "He will return in the movie, following the conflict with Kang the conqueror in Ant-man and the wasp: quantumania."
+  },
+  {
+    "id": 6,
+    "name": "Joaquin Torres",
+    "alias": "Falcon",
+    "role": "Hero",
+    "actor": "Danny Ramirez",
+    "img": "/Image/Falcon.webp",
+    "description": "The new falcon replacing Sam Wilson, partner of Sam Wilson as new Captain America, he one is the members of reformed avengers."
+  },
+  {
+    "id": 7,
+    "name": "Shang‑Chi",
+    "alias": "Shang-Chi",
+    "role": "Hero",
+    "actor": "Simu Liu",
+    "img": "/Image/Shang-chi.webp",
+    "description": "The new user of legendary weapon ten-rings, replacing his father Xu-Wenwu, he one is the members of reformed avengers."
+  },
+  {
+    "id": 8,
+    "name": "Bucky Barnes",
+    "alias": "Winter Soldier",
+    "role": "Hero",
+    "actor": "Sebastian Stan",
+    "img": "/Image/Bucky.jpg",
+    "description": "Steve Rogers best friend, iconic by his vibranium arm, now he is one of the members of New Avengers formed by Valentina allegra de fontaine"
+  },
+  {
+    "id": 9,
+    "name": "John Walker",
+    "alias": "U.S. Agent",
+    "role": "Hero/Antihero",
+    "actor": "Wyatt Russell",
+    "img": "/Image/U.S-Agent.webp",
+    "description": "Ex-captain america chosen by the government, now know as us.agent and become one of the members of New Avengers formed by Valentina allegra de fontaine."
+  },
+  {
+    "id": 10,
+    "name": "Yelena Belova",
+    "role": "Hero/Antihero",
+    "actor": "Florence Pugh",
+    "img": "/Image/Yelena.avif",
+    "description": "Ex-black widow agent from red room, sister of natasha romanoff, now she is the one of the members of new avengers formed by valentina allegra de fontaine."
+  },
+  {
+    "id": 11,
+    "name": "Alexei Shostakov",
+    "alias": "Red Guardian",
+    "role": "Hero/Antihero",
+    "actor": "David Harbour",
+    "img": "/Image/Alexei.webp",
+    "description": "Also know as the red guardian, a soviet version of captain america, now she is the one of the members of new avengers formed by valentina allegra de fontaine."
+  },
+  {
+    "id": 12,
+    "name": "Ava Starr",
+    "alias": "Ghost",
+    "role": "Antihero",
+    "actor": "Hannah John‑Kamen",
+    "img": "/Image/Ghost.webp",
+    "description": "Formely she is enemy of ant-man and the wasp, her body goes through a quantum phase, making her can invisible and intangible, now she is the one of the members of new avengers formed by valentina allegra de fontaine."
+  },
+  {
+    "id": 13,
+    "name": "Bob Reynolds",
+    "alias": "Sentry",
+    "role": "Hero",
+    "actor": "Lewis Pullman",
+    "img": "/Image/Sentry.avif",
+    "description": "He is an ordinary person who was used as an experimental object for Project Sentry, became the only survivor and received extraordinary powers, said to be stronger than all the Avengers, now he is the one of the members of new avengers formed by valentina allegra de fontaine."
+  },
+  {
+    "id": 14,
+    "name": "Shuri",
+    "alias": "Black Panther",
+    "role": "Hero",
+    "actor": "Letitia Wright",
+    "img": "/Image/Shuri.avif",
+    "description": "The new black panther following the death of her brother t'challa, being the only known female black panther"
+  },
+  {
+    "id": 15,
+    "name": "M'Baku",
+    "alias": "M'Baku",
+    "role": "Hero",
+    "actor": "Winston Duke",
+    "img": "/Image/M'baku.webp",
+    "description": "current King of Wakanda and being the only king who is not a black panther, also leader of the Jabari Tribe, a group of Wakandans who had removed themselves from mainstream society."
+  },
+  {
+    "id": 16,
+    "name": "Namor",
+    "alias": "King of Talokan",
+    "role": "Antihero",
+    "actor": "Tenoch Huerta Mejia",
+    "img": "/Image/Namor.webp",
+    "description": "Is a Talokanil mutant who rules the underwater kingdom of Talokan, formely he is enemy of wakanda but now he is an allies."
+  },
+  {
+    "id": 17,
+    "name": "Reed Richards",
+    "alias": "Mr. Fantastic",
+    "role": "Hero",
+    "actor": "Pedro Pascal",
+    "img": "/Image/Reed.webp",
+    "description": "The leader of Fantastic four, father of franklin richards and husband of sue storm, he is most genius fantastic four member."
+  },
+  {
+    "id": 18,
+    "name": "Sue Storm",
+    "alias": "Invisible Woman",
+    "role": "Hero",
+    "actor": "Vanessa Kirby",
+    "img": "/Image/Sue.webp",
+    "description": "Wife of reed richards and mother of franklin richards, she has the ability to manipulate force fields and make herself and surrounding objects invisible."
+  },
+  {
+    "id": 19,
+    "name": "Johnny Storm",
+    "alias": "Human Torch",
+    "role": "Hero",
+    "actor": "Joseph Quinn",
+    "img": "/Image/Human-torch.webp",
+    "description": "The youngest member of fantastic four, the only member that can fly and emitting fire from his body."
+  },
+  {
+    "id": 20,
+    "name": "Ben Grimm",
+    "alias": "The Thing",
+    "role": "Hero",
+    "actor": "Ebon Moss‑Bachrach",
+    "img": "/Image/Thing.webp",
+    "description": "The only fantastic four member with rock body, he is a member with strongest physical strength."
+  },
+  {
+    "id": 21,
+    "name": "Hank McCoy",
+    "alias": "Beast",
+    "role": "Hero",
+    "actor": "Kelsey Grammer",
+    "img": "/Image/Beast.webp",
+    "description": "He is a mutant and also a scientist, He is a blue-furred mutant with physical abilities and intelligence above the average human."
+  },
+  {
+    "id": 22,
+    "name": "Charles Xavier",
+    "alias": "Professor X",
+    "role": "Hero",
+    "actor": "Patrick Stewart",
+    "img": "/Image/Prof-X.avif",
+    "description": "He is a genius mutant with telepathic abilities, he is an idealistic scientist who wants mutants to be accepted by society."
+  },
+  {
+    "id": 23,
+    "name": "Erik Lehnsherr",
+    "alias": "Magneto",
+    "role": "Antihero/Villain",
+    "actor": "Ian McKellen",
+    "img": "/Image/Magneto.jpeg",
+    "description": "He is a mutant with the ability to control magnetic fields, a former friend of Charles Xavier when he was young."
+  },
+  {
+    "id": 24,
+    "name": "Kurt Wagner",
+    "alias": "Nightcrawler",
+    "role": "Hero",
+    "actor": "Alan Cumming",
+    "img": "/Image/Nightcrawler.avif"
+  },
+  {
+    "id": 25,
+    "name": "Raven Darkhölme",
+    "alias": "Mystique",
+    "role": "Antihero",
+    "actor": "Rebecca Romijn",
+    "img": "/Image/Mystique.webp",
+    "description": "she is a mutant with the ability to mimic anyone's physical form, Magneto's right hand woman and has grey morals, sometimes antihero sometimes antagonist"
+  },
+  {
+    "id": 26,
+    "name": "Scott Summers",
+    "alias": "Cyclops",
+    "role": "Hero",
+    "actor": "James Marsden",
+    "img": "/Image/Cyclops.webp",
+    "description": "is one of the most important mutant members of the X-Men—often called their field leader, although often “overshadowed” by Wolverine's popularity in the films, has the power of optic blast, a laser beam from his eyes that can destroy."
+  },
+  {
+    "id": 27,
+    "name": "Remy LeBeau",
+    "alias": "Gambit",
+    "role": "Hero/Antihero",
+    "actor": "Channing Tatum",
+    "img": "/Image/Gambit.webp",
+    "description": "is a mutant with the ability to manipulate kinetic energy, displaying a talent for card throwing and using a bō staff. Having eventually taken the name Gambit, he was banished to the Void by the Time Variance Authority."
+  }
+]

@@ -1,0 +1,38 @@
+.char-page {
+  padding: 40px;
+}
+
+/* Search bar (top, centered, rounded) */
+.search {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  padding: 18px 24px;
+  margin: 0 auto 60px;
+  font-size: 1rem;
+  border-radius: 999px;
+  border: none;
+  background-color: #1e293b;
+  color: #e5e7eb;
+  outline: none;
+  font-family: 'Rajdhani', sans-serif;
+}
+
+.search::placeholder {
+  color: #94a3b8;
+}
+
+/* Masonry-style grid */
+.list-char {
+  columns: 4 300px;
+  column-gap: 30px;
+}
+
+/* Empty state */
+.not-found {
+  align-self: center;
+  text-align: center;
+  font-size: 1.5rem;
+  opacity: 0.6;
+  font-family: 'Rajdhani', sans-serif;
+}

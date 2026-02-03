@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body {
+background: linear-gradient(
+  /* Doomsday color */
+  to bottom,
+  #b0b0b0 0%,
+  #6e6e6e 35%,
+  #0b3d2e 75%,
+  #00ff88 100%
+); 
+  color: #e5e7eb;
+}
