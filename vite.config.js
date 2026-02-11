@@ -8,7 +8,8 @@ export default defineConfig({
     rollupOptions:{
       input: {
         index: "index.html",
-        Tugas: "Tugas.html"
+        Tugas: "Tugas.html",
+        Tugasreducer: "Tugas-reducer.html"
       }
     }
   }
